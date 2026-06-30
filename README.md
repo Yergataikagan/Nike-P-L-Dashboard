@@ -26,6 +26,7 @@ DimPLLineItems — P&L line item hierarchy for matrix visual
 DimDate — Date table for time intelligence calculations
 
 
+
 **Key Insights:**
 
 2020 revenue spike - Total revenue jumped to $112.9M in 2020, more than triple the previous year, driven by strong growth in both Men's and Women's shoe categories
@@ -39,6 +40,7 @@ Net Income volatility - The business swung to a net loss of -$532K in 2020 despi
 Regional concentration - The West (24.4%) and Midwest (26.1%) together account for over half of total revenue, making them the core markets
 
 Women's shoes catching up - Women's Shoe Revenue consistently grew and nearly matched Men's in several years, suggesting a shift in product demand mix
+
 
 
 **Skills & Tools Used**
