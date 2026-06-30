@@ -38,7 +38,9 @@ Regional concentration - The West (24.4%) and Midwest (26.1%) together account f
 
 Women's shoes catching up - Women's Shoe Revenue consistently grew and nearly matched Men's in several years, suggesting a shift in product demand mix
 
-Skills & Tools Used
+
+**Skills & Tools Used**
+
 Power BI   DAX Expressions 
 
 Data Transformation 
