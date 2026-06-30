@@ -7,6 +7,7 @@ This Power BI dashboard was built to give a centralized view of Nike's financial
 Tracks key financial metrics including total revenue, gross margin, and net income, and visualizes how each P&L line item (COGS through EBITDA down to Net Income) performs year over year from 2017 to 2021, with a dynamic year-range slicer for flexible filtering.
 
 3. Revenue Breakdown
+
 Goes deeper into revenue composition, showing Men's vs Women's Shoe Revenue trends across years using a stacked bar chart, alongside a regional revenue split (Northeast, Midwest, West, South, Southeast) visualized as a donut chart.
 
 
